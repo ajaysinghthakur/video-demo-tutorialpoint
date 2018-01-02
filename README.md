@@ -1,9 +1,8 @@
 # video-demo-tutorialpoint
-Tutorial point tutorial
+signaling server for webrtc by following through the tutorial -https://www.tutorialspoint.com/webrtc/webrtc_architecture.htm.
 
-go through this tutorial -https://www.tutorialspoint.com/webrtc/webrtc_architecture.htm.
-
-## RUN
+### RUN
 To run the project 
-run in terminal: #node index.js
+run in terminal: #node index.js 
+
 open in chrome: localhost:8080/index.html
