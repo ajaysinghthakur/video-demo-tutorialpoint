@@ -1,0 +1,14 @@
+{
+  "name": "video-demo-tutorialpoint",
+  "version": "1.0.0",
+  "description": "video demo develope desktop client also",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ajay singh thakur",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^3.0.0"
+  }
+}
